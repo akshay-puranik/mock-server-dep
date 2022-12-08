@@ -61,5 +61,7 @@
       "email": "cnorssister9@mayoclinic.com"
     }
   ],
-  "books":[]
+  "books":[],
+  "user":[],
+  "posts":[]
 }
